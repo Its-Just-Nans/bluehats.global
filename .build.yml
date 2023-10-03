@@ -1,0 +1,18 @@
+image: debian/unstable
+packages:
+  - npm
+sources:
+  - https://git.sr.ht/~bluehats/bluehats.global
+secrets:
+  - 56d077fe-073b-4750-bb30-d7519df9229a
+tasks:
+  - install: |
+      cd bluehats.global
+      npm install
+      npm run build
+  - upload: |
+      rsync -e "ssh -o StrictHostKeyChecking=no" -av bluehats.global/_site/* bzg.fr:/home/build/bluehats.global/
+triggers:
+  - action: email
+    condition: failure
+    to: bzg@gnu.org
