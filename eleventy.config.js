@@ -10,7 +10,7 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
 
-const calendarPlugin = require("eleventy-plugin-calendar");
+const calendarPlugin = require("@codegouvfr/eleventy-plugin-calendar");
 
 module.exports = function(eleventyConfig) {
     // Copy the contents of the `public` folder to the output folder
