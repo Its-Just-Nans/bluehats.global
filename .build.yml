@@ -1,5 +1,6 @@
 image: debian/unstable
 packages:
+  - rsync
   - npm
 sources:
   - https://git.sr.ht/~bluehats/bluehats.global
