@@ -16,3 +16,9 @@ The BlueHats are all the people who want to show that they contribute to Free an
 If you organize `#BlueHats` events in your country, please share them on the [annoucements list](https://lists.sr.ht/~bluehats/announce) and we will advertize them on this blog.
 
 For any other topic, please join our [discussion list](https://lists.sr.ht/~bluehats/discuss).
+
+# Current contributors
+
+- Bastien Guerry ([French Gov OSPO](https://code.gouv.fr))
+- Boris Baldassari ([OSPO Alliance](https://ospo-alliance.org/))
+- Jacob Green ([OSPO++](https://ospoplusplus.org))
