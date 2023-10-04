@@ -13,6 +13,6 @@ The BlueHats are all the people who want to show that they contribute to Free an
 
 # ✉️ Share announcements
 
-If you want to contribute to this blog with an announcement, please post it on the [annoucements list](https://lists.sr.ht/~bluehats/announce).
+If you organize `#BlueHats` events in your country, please share them on the [annoucements list](https://lists.sr.ht/~bluehats/announce) and we will advertize them on this blog.
 
 For any other topic, please join our [discussion list](https://lists.sr.ht/~bluehats/discuss).
