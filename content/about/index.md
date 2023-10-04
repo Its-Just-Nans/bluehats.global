@@ -22,3 +22,4 @@ For any other topic, please join our [discussion list](https://lists.sr.ht/~blue
 - Bastien Guerry ([French Gov OSPO](https://code.gouv.fr))
 - Boris Baldassari ([OSPO Alliance](https://ospo-alliance.org/))
 - Jacob Green ([OSPO++](https://ospoplusplus.org))
+- Philippe Bareille ([City of Paris OSPO](https://opensource.paris.fr))
