@@ -1,13 +1,13 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Us
+  key: About
   order: 3
 ---
 
-# About BlueHats
+# About the `#BlueHats` 🧢 movement
 
-BlueHats is a movement to let civil servants around the world join forces when it comes to **using and publishing Free Software in the public sector**.
+`#BlueHats` is a movement to let civil servants around the world join forces when it comes to **using and publishing Free Software in the public sector**.
 
 `#BlueHats` is the hashtag we encourage every public sector open source program office or equivalent entity to use when organizing and advertizing events about Free Software in the public administration.
 
