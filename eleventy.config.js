@@ -38,7 +38,12 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPlugin(pluginNavigation);
     eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     eleventyConfig.addPlugin(pluginBundle);
-    eleventyConfig.addPlugin(calendarPlugin);
+    eleventyConfig.addPlugin(calendarPlugin, {
+        defaultDuration: 60,
+        defaultOrganizer: {
+            name: "BlueHats"
+        }
+    });
 
     // Filters
     eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
