@@ -13,3 +13,5 @@ Free Software in the public sector.
 Wonder what BlueHats is?  See what we're all [about](/about/).
 
 Want to share an event?  Post to the [announcement list](https://lists.sr.ht/~bluehats/announce).
+
+Simply want to discuss?  Post to the [discussion list](https://lists.sr.ht/~bluehats/discuss).
