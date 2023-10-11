@@ -1,12 +1,12 @@
 ---
 title:  Lutece Translation Hackathon
-description: The City of Paris and BlueHats, invite you to participate in the first ever Lutece Translation Hackathon
-date: 2023-10-16T10:00:00-02:00
+description: The City of Paris invite you to participate in the first ever Lutece Translation Hackathon #BlueHats
+date: 2023-10-16T10:00:00+02:00
 duration: 6240
 tags: events
 ---
 
-The City of Paris and BlueHats, [invite you to participate in the first ever Lutece Translation Hackathon](https://lutece.paris.fr/en/jsp/site/Portal.jsp?page=blog&id=66&portlet_id=17), lasting one week – commencing the 16th of October.
+The City of Paris [invite you to participate in the first ever Lutece Translation Hackathon](https://lutece.paris.fr/en/jsp/site/Portal.jsp?page=blog&id=66&portlet_id=17), lasting one week – commencing the 16th of October, a #BlueHats events.
 
 As Lutece is already in use across various administration, the project team is looking to extend the possibility for more people to reuse it in their own language. This first Hackathon will focus on the core of Lutece, to create the vocabulary basis to then extend translation with the help of AI. 
 
