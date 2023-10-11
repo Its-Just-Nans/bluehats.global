@@ -1,8 +1,8 @@
 ---
 title:  Lutece Translation Hackathon
 description: The City of Paris and BlueHats, invite you to participate in the first ever Lutece Translation Hackathon
-date: 2023-10-16T10:00:00.0Z
-duration: 3840
+date: 2023-10-16T10:00:00-02:00
+duration: 6240
 tags: events
 ---
 
