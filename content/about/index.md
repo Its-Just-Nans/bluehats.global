@@ -11,15 +11,15 @@ The BlueHats are all the people who want to show that they contribute to Free an
 
 `#BlueHats` is the hashtag we encourage every public sector open source program office or equivalent entity to use when organizing and advertizing events about Free Software in the public administration.
 
+# 📅 The `#BlueHats` calendar
+
+You can add [http://bluehats.global/bluehats.ics](http://bluehats.global/bluehats.ics) to the list of public calendars you subscribe to.
+
 # ✉️ Share announcements
 
 If you organize `#BlueHats` events in your country, please share them on the [annoucements list](https://lists.sr.ht/~bluehats/announce) and we will advertize them on this blog.
 
 For any other topic, please join our [discussion list](https://lists.sr.ht/~bluehats/discuss).
-
-# 📅 The `#BlueHats` calendar
-
-You can add [http://bluehats.global/bluehats.ics](http://bluehats.global/bluehats.ics) to the list of public calendars you subscribe to.
 
 # 👓 Current contributors
 
