@@ -17,6 +17,10 @@ If you organize `#BlueHats` events in your country, please share them on the [an
 
 For any other topic, please join our [discussion list](https://lists.sr.ht/~bluehats/discuss).
 
+# Subscribe to the international BlueHats calendar
+
+You can add [http://bluehats.global/bluehats.ics](http://bluehats.global/bluehats.ics) to the list of public calendars you subscribe to.
+
 # Current contributors
 
 - Bastien Guerry ([French Gov OSPO](https://code.gouv.fr))
