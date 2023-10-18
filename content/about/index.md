@@ -21,6 +21,15 @@ If you organize `#BlueHats` events in your country, please share them on the [an
 
 For any other topic, please join our [discussion list](https://lists.sr.ht/~bluehats/discuss).
 
+# 🖊️ Reusable visuals
+
+You can download [a zip archive with BlueHats visuals](/doc/bluehats-visuals.zip).
+
+<br/>
+<img alt="Logo BlueHats multiple" width="200px" src="/img/bluehats.png"/>
+<br/>
+<img alt="Logo BlueHats single" width="200px" src="/img/logo-bluehat-single.png"/>
+
 # 👓 Current contributors
 
 - Bastien Guerry ([French Gov OSPO](https://code.gouv.fr))
