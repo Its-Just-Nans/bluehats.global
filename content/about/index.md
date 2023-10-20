@@ -23,10 +23,14 @@ For any other topic, please join our [discussion list](https://lists.sr.ht/~blue
 
 # 🖊️ Reusable visuals
 
-You can download [a zip archive with BlueHats visuals](/doc/bluehats-visuals-2023-10-19.zip).
+You can download [a zip archive with BlueHats visuals](/doc/bluehats-visuals-2023-10-20.zip).
 
 <br/>
 <img alt="Logo BlueHats multiple" width="200px" src="/img/bluehats-logo.png"/>
+<br/>
+<br/>
+<img alt="Logo BlueHats multiple" width="200px" src="/img/bluehats-logo-single.png"/>
+<br/>
 <br/>
 <img alt="Logo BlueHats single" width="200px" src="/img/bluehats-logo-single-outline-gradient.png"/>
 
