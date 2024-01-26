@@ -1,6 +1,6 @@
 # Introduction
 
-This is the repository for the https://bluehats.global website.
+This is the repository for the [https://bluehats.global](https://bluehats.global) website.
 
 # License
 
