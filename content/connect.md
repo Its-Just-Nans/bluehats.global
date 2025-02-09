@@ -5,13 +5,13 @@ eleventyNavigation:
   order: 2
 ---
 
-# 🧢 Join this blog
+## 🧢 Join this blog
 
 If you are connected to BlueHats and want to share news on this blog,
 feel free to get in touch with us and/or to send a [pull
 request](https://github.com/Bluehats/bluehats.global).
 
-# 🗺️ Share on the public mailing lists
+## 🗺️ Share on the public mailing lists
 
 You can join these public mailing lists:
 
@@ -19,19 +19,19 @@ You can join these public mailing lists:
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/nl): Dutch
 
-# 🎉 Discuss on IRC
+## 🎉 Discuss on IRC
 
 Join the #bluehats channel on [Libera.Chat](https://libera.chat/).
 
-# ☺️ Follow our social account
+## ☺️ Follow our social account
 
 - https://fosstodon.org/@bluehats
 
-# 📅 Subscribe to our calendar
+## 📅 Subscribe to our calendar
 
 - [BlueHats events (.ics)](http://bluehats.global/bluehats.ics)
 
-# ✉️ Send us an email
+## ✉️ Send us an email
 
 - In public: `~bluehats/en@lists.sr.ht`
 - In private: `bzg+bluehats @ bzg.fr`

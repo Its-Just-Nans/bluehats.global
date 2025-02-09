@@ -5,13 +5,13 @@ eleventyNavigation:
   order: 3
 ---
 
-# 📅 The `#BlueHats` calendar
+## 📅 The `#BlueHats` calendar
 
 You can subscribe to the [BlueHats calendar (.ics)](http://bluehats.global/bluehats.ics).
 
 Blog entries tagged as "events" contribute to this calendar: feel free to submit
 
-# 🖊️ Reusable visuals under CC0
+## 🖊️ Reusable visuals under CC0
 
 Any civil servant in any country is welcome to use the BlueHats visuals to organize events for promoting Free Software in the public sector.
 
