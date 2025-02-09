@@ -8,7 +8,8 @@ eleventyNavigation:
 # 🎉 Join this blog
 
 If you are connected to BlueHats and want to share news on this blog,
-feel free to get in touch
+feel free to get in touch with us and/or to send a [pull
+request](https://github.com/Bluehats/bluehats.global).
 
 # 🗺️ Share on the public mailing lists
 
