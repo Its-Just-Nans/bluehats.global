@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 2
 ---
 
-# 🎉 Join this blog
+# 🧢 Join this blog
 
 If you are connected to BlueHats and want to share news on this blog,
 feel free to get in touch with us and/or to send a [pull
@@ -18,6 +18,10 @@ You can join these public mailing lists:
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/fr): French
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/nl): Dutch
+
+# 🎉 Discuss on IRC
+
+Join the #bluehats channel on [Libera.Chat](https://libera.chat/).
 
 # ☺️ Follow our social account
 
