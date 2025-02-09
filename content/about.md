@@ -9,9 +9,10 @@ eleventyNavigation:
 
 ## Free Software in/by/for the public sector
 
-BlueHats are civil servants who promote Free and Open Source software
-in the public sector around the world. They believe taxes should go to
-Free Software, endorsing the "public money, public code" principle.
+BlueHats is a community of worldwide civil servants who promote Free
+and Open Source software in, by and for the public sector. They
+believe taxes should go to Free Software, endorsing the "public money,
+public code" principle.
 
 # 👓 Co-founders
 
