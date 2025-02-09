@@ -14,6 +14,8 @@ and Open Source software in, by and for the public sector. They
 believe taxes should go to Free Software, endorsing the "public money,
 public code" principle.
 
+Feel free to [connect](https://bluehats.global/connect) with other BlueHats or to [promote](https://bluehats.global/promote) our movement.
+
 # 👓 Co-founders
 
 - Bastien Guerry ([French Gov OSPO](https://code.gouv.fr))

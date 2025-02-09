@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 2
 ---
 
-# 🗺️ Connect with other BlueHats
+# 🗺️ Mailing lists
 
 You can join these public mailing lists:
 
@@ -13,7 +13,10 @@ You can join these public mailing lists:
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/nl): Dutch
 
-# 📅 The `#BlueHats` calendar
+# ☺️ Social account
 
-You can add [http://bluehats.global/bluehats.ics](http://bluehats.global/bluehats.ics) to the list of public calendars you subscribe to.
+- https://fosstodon.org/@bluehats
 
+# 📅 Calendar
+
+- [BlueHats events (.ics)](http://bluehats.global/bluehats.ics)
