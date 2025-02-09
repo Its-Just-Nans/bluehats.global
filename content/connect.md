@@ -25,7 +25,7 @@ Join the #bluehats channel on [Libera.Chat](https://libera.chat/).
 
 ## ☺️ Follow our social account
 
-- https://fosstodon.org/@bluehats
+- [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
 
 ## 📅 Subscribe to our calendar
 
