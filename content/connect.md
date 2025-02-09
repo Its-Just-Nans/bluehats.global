@@ -16,8 +16,8 @@ request](https://github.com/Bluehats/bluehats.global).
 You can join these public mailing lists:
 
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/fr): French
-- [~bluehats/fr](https://lists.sr.ht/~bluehats/en): English
-- [~bluehats/fr](https://lists.sr.ht/~bluehats/nl): Dutch
+- [~bluehats/en](https://lists.sr.ht/~bluehats/en): English
+- [~bluehats/nl](https://lists.sr.ht/~bluehats/nl): Dutch
 
 ## 🎉 Discuss on IRC
 
