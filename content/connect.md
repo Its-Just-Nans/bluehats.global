@@ -23,7 +23,7 @@ You can join these public mailing lists:
 
 Join the #bluehats channel on [Libera.Chat](https://libera.chat/).
 
-## ☺️ Follow our social account
+## 🐘 Follow us on the fediverse
 
 - [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
 
