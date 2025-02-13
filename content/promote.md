@@ -5,6 +5,12 @@ eleventyNavigation:
   order: 3
 ---
 
+## 🧢 Show your support in your README.md
+
+```
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)
+```
+
 ## 🖊️ Reusable visuals under CC0
 
 Any civil servant in any country is welcome to use the BlueHats visuals to organize events for promoting Free Software in the public sector.
