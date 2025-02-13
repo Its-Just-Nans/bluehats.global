@@ -12,13 +12,13 @@ contribute to our blog by creating a [pull
 request](https://github.com/Bluehats/bluehats.global) or [sending us
 an email](bzg+bluehats@bzg.fr).
 
-## 🗺️ Discuss on public mailing lists and IRC
+## 🗺️ Discuss on public mailing lists, IRC and Matrix
 
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/fr): French
 - [~bluehats/en](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/nl](https://lists.sr.ht/~bluehats/nl): Dutch
 
-See also the `#bluehats IRC channel` on [Libera.Chat](https://libera.chat) and the [#bluehats Matrix channel](https://matrix.to/#/#bluehats:matrix.org).
+There is also the `#bluehats IRC channel` on [Libera.Chat](https://libera.chat) and the [#bluehats Matrix channel](https://matrix.to/#/#bluehats:matrix.org).
 
 ## 🐘 Follow us on the fediverse
 
