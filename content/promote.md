@@ -5,10 +5,18 @@ eleventyNavigation:
   order: 3
 ---
 
-## 🧢 Show your support in your README.md
+## 🧢 Show your support 
+
+In your `README.md`:
 
 ```
 [![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)
+```
+
+In your `README.org`:
+
+```
+[[https://bluehats.global][https://img.shields.io/badge/We%20support-BlueHats-blue.svg]]
 ```
 
 ## 🖊️ Reusable visuals under CC0
