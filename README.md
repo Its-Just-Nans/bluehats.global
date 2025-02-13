@@ -1,3 +1,5 @@
+[![img](https://img.shields.io/badge/We%20support-BlueHats-blue.svg)](https://bluehats.global)
+
 # Introduction
 
 This is the repository for the [https://bluehats.global](https://bluehats.global) website.
