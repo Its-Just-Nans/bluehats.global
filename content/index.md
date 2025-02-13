@@ -16,3 +16,7 @@ Digitisation of public services should go full Free Software.
 
 Governments should contribute to the sustainability of Free Software.
 ```
+
+## I'm a BlueHats! 🧢
+
+Please [join us](connect) and [promote](promote) our actions!
