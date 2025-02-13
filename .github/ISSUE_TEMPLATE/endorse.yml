@@ -1,0 +1,16 @@
+name: I'm a BlueHats!
+description: Endorse the BlueHats manifesto
+title: "Please add me"
+labels: ["Endorse"]
+assignees:
+  - bzg
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for joining the BlueHats movement!
+  - type: textarea
+    id: who-are-you
+    attributes:
+      label: Who are you?
+      description: Tell us your name, country and public sector organization
