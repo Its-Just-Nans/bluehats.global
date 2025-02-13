@@ -7,9 +7,10 @@ eleventyNavigation:
 
 ## 🧢 Join this blog
 
-If you are connected to BlueHats and want to share news on this blog,
-feel free to get in touch with us and/or to send a [pull
-request](https://github.com/Bluehats/bluehats.global).
+If you want to share `#BlueHats` news and events, feel free to
+contribute to our blog by creating a [pull
+request](https://github.com/Bluehats/bluehats.global) or [sending us
+an email](bzg+bluehats@bzg.fr).
 
 ## 🗺️ Discuss on public mailing lists and IRC
 
@@ -17,7 +18,7 @@ request](https://github.com/Bluehats/bluehats.global).
 - [~bluehats/en](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/nl](https://lists.sr.ht/~bluehats/nl): Dutch
 
-You can join the #bluehats channel on [Libera.Chat](https://libera.chat/).
+There is also the `#bluehats` channel on [Libera.Chat](https://libera.chat).
 
 ## 🐘 Follow us on the fediverse
 
@@ -25,9 +26,4 @@ You can join the #bluehats channel on [Libera.Chat](https://libera.chat/).
 
 ## 📅 Subscribe to our calendar
 
-- [BlueHats events (.ics)](http://bluehats.global/bluehats.ics)
-
-## ✉️ Send us an email
-
-- In public: `~bluehats/en@lists.sr.ht`
-- In private: `bzg+bluehats @ bzg.fr`
+Add [BlueHats events (.ics)](http://bluehats.global/bluehats.ics) to your calendars.
