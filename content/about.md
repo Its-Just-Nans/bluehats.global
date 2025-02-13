@@ -9,10 +9,11 @@ eleventyNavigation:
 
 ### Free Software in/by/for the public sector
 
-BlueHats is a community of worldwide civil servants who promote Free
-Libre and Open Source software in, by and for the public sector. They
-believe taxes should go to Free Software, endorsing the "public money,
-public code" principle.
+BlueHats is a worldwide community of public servants promoting Free
+Libre and Open Source software in, by and for the public sector. Free
+Software gives everybody the right to use, study, share and improve
+software. BlueHats believe taxes should go to Free Software, endorsing
+the "public money, public code" principle.
 
 If you agree with our [manifesto](https://bluehats.global/manifesto/),
 feel free to [connect](https://bluehats.global/connect) with other
@@ -21,7 +22,11 @@ movement.
 
 ## 👓 Co-founders
 
-- Bastien Guerry ([French Gov OSPO](https://code.gouv.fr))
-- Boris Baldassari ([OSPO Alliance](https://ospo-alliance.org))
-- Jacob Green ([OSPO++](https://ospoplusplus.org))
-- Philippe Bareille ([City of Paris OSPO](https://opensource.paris.fr))
+- Bastien Guerry, France, [French Gov OSPO](https://code.gouv.fr)
+- Boris Baldassari, France, [OSPO Alliance](https://ospo-alliance.org)
+- Jacob Green, United States, [OSPO++](https://ospoplusplus.org)
+- Philippe Bareille, France, [City of Paris OSPO](https://opensource.paris.fr)
+
+## 💪 Endorsers
+
+- [Name, Country, Public sector organization]
