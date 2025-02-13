@@ -18,7 +18,7 @@ an email](bzg+bluehats@bzg.fr).
 - [~bluehats/en](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/nl](https://lists.sr.ht/~bluehats/nl): Dutch
 
-There is also the `#bluehats` channel on [Libera.Chat](https://libera.chat).
+See also the `#bluehats IRC channel` on [Libera.Chat](https://libera.chat) and the [#bluehats Matrix channel](https://matrix.to/#/#bluehats:matrix.org).
 
 ## 🐘 Follow us on the fediverse
 
