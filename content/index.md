@@ -12,6 +12,6 @@ eleventyNavigation:
 - Civil servants should be free to contribute to Free Software.
 - Civil servants should be free to use Free Software.
 
-## I'm a BlueHats! 🧢
+## I'm part of BlueHats!
 
 Please [join us](connect) and [promote](promote) our actions!
