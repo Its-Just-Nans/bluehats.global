@@ -11,17 +11,13 @@ If you are connected to BlueHats and want to share news on this blog,
 feel free to get in touch with us and/or to send a [pull
 request](https://github.com/Bluehats/bluehats.global).
 
-## 🗺️ Share on the public mailing lists
-
-You can join these public mailing lists:
+## 🗺️ Discuss on public mailing lists and IRC
 
 - [~bluehats/fr](https://lists.sr.ht/~bluehats/fr): French
 - [~bluehats/en](https://lists.sr.ht/~bluehats/en): English
 - [~bluehats/nl](https://lists.sr.ht/~bluehats/nl): Dutch
 
-## 🎉 Discuss on IRC
-
-Join the #bluehats channel on [Libera.Chat](https://libera.chat/).
+You can join the #bluehats channel on [Libera.Chat](https://libera.chat/).
 
 ## 🐘 Follow us on the fediverse
 
