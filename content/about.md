@@ -5,9 +5,9 @@ eleventyNavigation:
   order: 5
 ---
 
-## 🧢 What is `#BlueHats`?
+## What is `#BlueHats`?
 
-### Free Software in/by/for the public sector
+### 🧢 Free Software in/by/for the public sector
 
 BlueHats is a worldwide community of public servants promoting Free
 Libre and Open Source software in, by and for the public sector. Free
@@ -20,13 +20,11 @@ feel free to [connect](https://bluehats.global/connect) with other
 BlueHats or to [promote](https://bluehats.global/promote) our
 movement.
 
-## 👓 Co-founders
+### 👓 Maintainers of this website
 
 - Bastien Guerry, France, [French Gov OSPO](https://code.gouv.fr)
 - Boris Baldassari, France, [OSPO Alliance](https://ospo-alliance.org)
 - Jacob Green, United States, [OSPO++](https://ospoplusplus.org)
 - Philippe Bareille, France, [City of Paris OSPO](https://opensource.paris.fr)
 
-## 💪 Endorsers
-
-- [Name, Country, Public sector organization]
+### ✉️ Feel free to [send us an email](bluehats@bzg.fr)
