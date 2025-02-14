@@ -14,4 +14,4 @@ eleventyNavigation:
 
 ## I'm part of BlueHats!
 
-Please [join us](connect) and [promote](promote) our actions!
+Please [join us](join) and [promote](promote) our actions!

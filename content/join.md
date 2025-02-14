@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Connect
+  key: Join
   order: 2
 ---
 
