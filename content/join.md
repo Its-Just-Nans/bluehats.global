@@ -5,12 +5,14 @@ eleventyNavigation:
   order: 2
 ---
 
-## 🧢 Join this blog
+## 🧢 Propose an event
 
-If you want to share `#BlueHats` news and events, please contribute to
-our blog by creating a [pull
+If you want to share `#BlueHats` events, please contribute to this
+website by creating a [pull
 request](https://github.com/Bluehats/bluehats.global) or [sending us
-an email](bzg+bluehats@bzg.fr).
+an email](bluehats@bzg.fr).
+
+## 📅 Subscribe to the [public calendar](http://bluehats.global/bluehats.ics)
 
 ## 🐘 Follow us on [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
 
@@ -21,5 +23,3 @@ an email](bzg+bluehats@bzg.fr).
 - [Dutch speaking public list](https://lists.sr.ht/~bluehats/nl)
 - [#bluehats IRC channel on Libera.Chat](https://libera.chat)
 - [#bluehats Matrix channel](https://matrix.to/#/#bluehats:matrix.org)
-
-## 📅 Subscribe to the [public calendar](http://bluehats.global/bluehats.ics)
