@@ -9,9 +9,10 @@ eleventyNavigation:
 
 Free Software gives everybody the right to use, study, share and
 improve software. BlueHats is a worldwide community of public servants
-promoting Free Libre and Open Source software in, by and for the
-public sector. BlueHats believe taxes should go to Free Software,
-endorsing the "public money, public code" principle.
+(teachers, researchers and other government workers, etc.) who promote
+Free and Open Source software in, by and for the public sector.
+BlueHats believe that taxes should go to Free Software and support the
+principle of "public money, public code".
 
 If you endorse our [manifesto](https://bluehats.global), please
 [join](/join) and [promote](/promote) our movement.
