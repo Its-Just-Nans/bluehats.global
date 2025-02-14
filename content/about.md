@@ -14,7 +14,7 @@ software. BlueHats believe taxes should go to Free Software, endorsing
 the "public money, public code" principle.
 
 If you endorse our [manifesto](https://bluehats.global), please
-[join](join) and [promote](promote) the BlueHats movement.
+[join](/join) and [promote](/promote) the BlueHats movement.
 
 ### 🙏 Maintainers
 
