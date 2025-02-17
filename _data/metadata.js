@@ -1,5 +1,5 @@
 module.exports = {
-    title: "🧢 #BlueHats - Civil servants promoting FLOSS in/by/for the public sector",
+    title: "🧢 #BlueHats",
     url: "https://bluehats.global",
     language: "en",
     description: "Civil servants promoting FLOSS in/by/for the public sector",
