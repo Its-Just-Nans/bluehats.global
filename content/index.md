@@ -7,10 +7,9 @@ eleventyNavigation:
 
 ## The BlueHats Manifesto
 
-- Governments should contribute to Free Software.
-- Digitisation of public services should go full Free Software.
-- Civil servants should be free to contribute to Free Software.
-- Civil servants should be free to use Free Software.
+1. Governments should actively contribute to Free Software.
+2. Digitisation of public services should prioritise Free Software.
+3. Civil servants should be free to use Free Software.
 
 ## I'm part of BlueHats!
 
