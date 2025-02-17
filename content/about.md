@@ -21,7 +21,7 @@ If you endorse our [manifesto](https://bluehats.global), please
 
 - Bastien Guerry, France, [French Gov OSPO](https://code.gouv.fr)
 - Boris Baldassari, France, [OSPO Alliance](https://ospo-alliance.org)
-- Jacob Green, United States, [OSPO++](https://ospoplusplus.org)
+- Jacob Green, United States, OSPO++
 - Philippe Bareille, France, [City of Paris OSPO](https://opensource.paris.fr)
 
 ### ✉️ Feel free to [write us an email](bluehats@bzg.fr)
