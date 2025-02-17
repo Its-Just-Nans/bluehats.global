@@ -21,7 +21,7 @@ In your `README.org`:
 
 ## 🖊️ Reusable visuals under CC0
 
-Any civil servant in any country is welcome to use the BlueHats visuals to organize events for promoting Free Software in, for and by the public sector.
+Any civil servant in any country is welcome to use the BlueHats visuals to organise events for promoting Free Software in, for and by the public sector.
 
 You can download [a zip archive with BlueHats visuals](https://github.com/blue-hats/bluehats-visuals/archive/refs/tags/v0.6.zip).
 
