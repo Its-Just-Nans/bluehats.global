@@ -1,11 +1,11 @@
 module.exports = {
-    title: "#BlueHats 🧢",
+    title: "🧢 #BlueHats - Civil servants promoting FLOSS in/by/for the public sector",
     url: "https://bluehats.global",
     language: "en",
-    description: "Civil servants for Free Software in public administrations",
+    description: "Civil servants promoting FLOSS in/by/for the public sector",
     author: {
 	name: "BlueHats",
-	email: "https://lists.sr.ht/~bluehats/discuss",
+	email: "bluehats@bzg.fr",
 	url: "https://bluehats.global"
     }
 }
