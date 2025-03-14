@@ -5,18 +5,20 @@ eleventyNavigation:
   order: 2
 ---
 
-## 🧢 Propose an event
+## ✉️ Subscribe to our [newsletter](https://bluehats.global/newsletter)
+
+## 🐘 Follow us on [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
+
+## 🧢 Announce an event
 
 If you want to share `#BlueHats` events, please contribute to this
 website by creating a [pull
 request](https://github.com/Bluehats/bluehats.global) or [sending us
 an email](bluehats@bzg.fr).
 
-## 📅 Subscribe to the [public calendar](https://bluehats.global/bluehats.ics)
+## 📅 Import our [public calendar](https://bluehats.global/bluehats.ics)
 
-## 🐘 Follow us on [fosstodon.org/@bluehats](https://fosstodon.org/@bluehats)
-
-## 🗺️ Discuss on public mailing lists, IRC and Matrix
+## 🗺️ Discuss on public mailing lists, IRC, Matrix
 
 - [French speaking public list](https://lists.sr.ht/~bluehats/fr)
 - [English speaking public list](https://lists.sr.ht/~bluehats/en)
