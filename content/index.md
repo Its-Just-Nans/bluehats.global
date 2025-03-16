@@ -14,3 +14,5 @@ eleventyNavigation:
 ## I'm part of BlueHats!
 
 Please [join us](join) and [promote](promote) our movement.
+
+<img alt="First BlueHats in 2018" width="608px" src="/img/bluehats_2018.webp"/>
