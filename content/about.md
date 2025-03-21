@@ -24,4 +24,4 @@ If you endorse our [manifesto](https://bluehats.global), please
 - Jacob Green, United States, OSPO++
 - Philippe Bareille, France, [City of Paris OSPO](https://opensource.paris.fr)
 
-### ✉️ Feel free to [write us an email](bluehats@bzg.fr)
+### ✉️ Don't hesitate to [write us an email](mailto:bluehats@bzg.fr)
