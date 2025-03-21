@@ -137,6 +137,7 @@ pre:not([class*="language-"]) {
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;
+	overflow: auto;
 }
 code {
 	word-break: break-all;
