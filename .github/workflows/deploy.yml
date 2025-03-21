@@ -38,7 +38,7 @@ jobs:
             - name: Install dependencies
               run: npm install
             - name: Build
-              run: npm run build --path-prefix="/$BASE_URL"
+              run: npm run build --pathprefix="/$BASE_URL"
               env:
                   BASE_URL: ${{ github.event.repository.name }}
             - name: Upload artifact
